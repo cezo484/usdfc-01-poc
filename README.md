@@ -33,5 +33,4 @@ Expected: 5 passed, 0 failed.
 - `test/PriceFeedFrozenFallback.t.sol` — the 5 tests.
 - `foundry.toml` — solc 0.7.6, evm_version istanbul.
 
-Staged locally only; not published. Publish to GitHub before citing a
-link in the bounty report.
+PoC for the USDFC-01 report.
